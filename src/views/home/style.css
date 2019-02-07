@@ -1,0 +1,39 @@
+.container {
+  text-align: center;
+  padding-top: 16px;
+}
+
+.btn {
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  width: 150px;
+  height: 40px;
+  box-shadow: 3px 2px #c9c9c9;
+  margin: 4px;
+}
+
+.btn-add {
+  background-color: #042d74;
+}
+
+.btn-go {
+  background-color: #222;
+}
+
+.container-btns {
+  margin-top: 4px;
+}
+
+.item {
+  color: #222;
+  margin-bottom: 4px;
+  margin-top: 4px;
+  font-size: 22px;
+}
+
+.message{
+  color: #222;
+  font-size: 16px;
+  margin-top: 32px;
+}
